@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **improving my programing knowledge**
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently a PhD student in **Analitical Chemistry**
 
-- 👯 I’m looking to collaborate on **neutrino decay analysis at IF-UFG**
+- 👯 I’m developing a **RPG System** (because I have nothing better to do)
 
-- 📫 How to reach me **danielaraujo@discente.ufg.br**
+- 📫 How to reach me **danielaraujo@ufg.br**
 
 - 📄 Know about my experiences [http://lattes.cnpq.br/3522866877697952](http://lattes.cnpq.br/3522866877697952)
 
