@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel Azevedo</h1>
-<h3 align="center">⚛︎ I'm a masters student in high energy physics!</h3>
+<h3 align="center">⚛︎ I'm a doctorate student in Analitical Chemistry!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danazev&label=Profile%20views&color=0e75b6&style=flat&theme=tokyonight" alt="danazev" /> </p>
 
